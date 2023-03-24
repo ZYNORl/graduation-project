@@ -4,7 +4,7 @@
 
 **演示：**
 
-<video src="pic/demonstration.mp4"></video>
+![demonstration](pic/demonstration.gif)
 
 **目的**：对天然气用气量，进行预测。
 
@@ -15,3 +15,22 @@
 **论文目录**：
 
 ![image-20230324131035782](pic/catalogue.png)
+
+**模型**
+
+- LSTM
+
+![LSTM结构图](F:\github远程仓库\Undergraduate Graduation Project\pic\LSTM结构图.png)
+
+- GRA_LSTM
+
+![GRA_LSTM设计](F:\github远程仓库\Undergraduate Graduation Project\pic\GRA_LSTM设计.png)
+
+- 串联
+
+![串联设计](F:\github远程仓库\Undergraduate Graduation Project\pic\串联设计.png)
+
+- 并联
+
+![并联设计](F:\github远程仓库\Undergraduate Graduation Project\pic\并联设计.svg)
+

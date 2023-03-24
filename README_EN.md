@@ -4,7 +4,7 @@ English | [简体中文](README.md)
 
 **demonstration **：
 
-<video src="pic\demonstration.mp4"></video>
+<video src="pic/demonstration.mp4"></video>
 
 **Objective** : To predict the amount of natural gas consumption.
 
@@ -14,4 +14,4 @@ English | [简体中文](README.md)
 
 **Table of Papers **:
 
-![image-20230324131035782](pic\catalogue.png)
+![image-20230324131035782](pic/catalogue.png)

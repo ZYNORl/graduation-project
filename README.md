@@ -4,7 +4,7 @@
 
 **演示：**
 
-<video src="pic\demonstration.mp4"></video>
+<video src="pic/demonstration.mp4"></video>
 
 **目的**：对天然气用气量，进行预测。
 
@@ -14,4 +14,4 @@
 
 **论文目录**：
 
-![image-20230324131035782](pic\catalogue.png)
+![image-20230324131035782](pic/catalogue.png)

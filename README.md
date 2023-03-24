@@ -20,17 +20,17 @@
 
 - LSTM
 
-![LSTM结构图](F:\github远程仓库\Undergraduate Graduation Project\pic\LSTM结构图.png)
+![LSTM结构图](pic/models/LSTM结构图.png)
 
 - GRA_LSTM
 
-![GRA_LSTM设计](F:\github远程仓库\Undergraduate Graduation Project\pic\GRA_LSTM设计.png)
+![GRA_LSTM设计](pic/models/GRA_LSTM设计.png)
 
 - 串联
 
-![串联设计](F:\github远程仓库\Undergraduate Graduation Project\pic\串联设计.png)
+![串联设计](pic/models/串联设计.png)
 
 - 并联
 
-![并联设计](F:\github远程仓库\Undergraduate Graduation Project\pic\并联设计.svg)
+![并联设计](pic/models/并联设计.svg)
 
